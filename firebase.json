@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "tele-multi-game",
+    "private_key_id": "cf5ab73b32bb4a8f76f4d1d555ace12896575d68",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCK+sV+TjCAYXm3\nUCNmcbE4xGljbICCQzwatA1sxQtNxHUpzl/vps0BdfvOxzTGTz4frHyRJl1UZiF5\njvg/GUTRxpdQ6A2hICWifNPSQRbE4JDBUBp3sAe2EucCWHF/pMgFCvaHxVC0G7GF\nzXUzfoHs3LDasSn0CXfBLBLRTf/H7keUtF+oTg1mn7NmzE4vj3DusVsUxOdGjNHl\nEiiUR9QffUHHJDo8/QgmBhLIOZtg7lF7kM2KSweQ0FZKjBgklvXrm0m1s9H0FuZd\nz6Ay+O3tZYmhheCGRNn7LYZS/8gL+tqUhIv/o9l8tdd7c7Rdxc/FQBIIl60r1b7E\ntBj+JM0/AgMBAAECggEAAvSBFYXxFxG7hk/QaOG6/HOEsCYC94IZeZHhhTINYvpt\n6VUnig94ZXMORx/KOfs+XWsL/QQdUOmZBZ4qHiFZ6sH3vrMocwgddL6FvH9Azi/e\nNBYRcgEOsOrm+ZBK3YVx8VWB13I1HJdIJ4muV8l1VsV8hzHkK/m1j6hxv/ySFzys\nSHhlQ5pxCG8TtSNeWETW6Bt8GiIUbvbcYm6rROrQF1Kj7w4u7XAX78qKQdwPGPk2\n6sZcWJ6+COZL8Ok4BoBTwARbPFkq5lKK7MVTSkzqqcttGW+/PTcyDwJdxwZQdlqT\nIn6UJy8Lc1JosF8fdQ4GqBYbV1Fe6s3q6SI7w4UnUQKBgQC9JA9Hwxainxkoe8Zo\nvsHNwMacN0UspCa7AWYj3rnRId2V7YEROg+lOc5jBKwsNXM6TSRuat3fyBYlABxS\nKPqhIVEcsmB44S6NFPlcveB1NzpY0CWm03chZADkpLhEAJ/PsYOfbmAg5w0lH0Ng\n6zL3BVTcfYeWS/f5WCgYf2QeTwKBgQC8G3ZjTv7mtvixRiEWplIm6MUjbMJnUFFz\nJllP1K2zPFF0m/spFL5Jrwvc4hUFKcUlVDdw2rPa95q3LWGMKmRYZrMHIZBLTCTV\n91DJc2d5OVI/obs4seWlFGL1A2mBKnzY56Yk6w/7Y0GiJGAfPcKSjUIeCstWrnqH\nOo0fftwWEQKBgHx3GVMZD3Euj0izwwo01aZHgKtWN8A7uX0AW62pKNB1n7LE21Vx\nxs/s7WL9tStWdSBdmWbMDnvv2Jq6quhqLRwRp6XhwFhrns2aiso77VRVZqEBQHW6\n3L9tZqUPvG6Llp7/auVkpf+g7GaMXzONMzmZGZILTUlbbrB4EdKlKkZDAoGAKdbt\n6T7b4ZNXE48msvQBl9f0aWG6h+JMi5E/Ekua6yACei5rmgKcJKWDvPiodkKJMDlg\nL4DlulGSnyW/6b5QHX2SWoazopvoIZNl67j4jfUa/z5I915SVvqG3DqLEAjURiaY\nROPn5SF5qsfufWRuT8yNpUL/YWNjq4pxc0zzRRECgYB1qPqdHBuE8C2DQZZtCbzH\nVyPUJGzQLgsb8bPSQS3Cxmnj6gVuTGdpfTaJobRWONd2c2QjxvPKBr0iKQ8T8V+e\npCDA6+EK4j7wNSs9i3kdxD7FhNGFXP/0c6qzH3Mu0c7u7V1mrJ43GY7vEK2cripl\njngie3pPF7grZ4F/mkfdSw==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-ncg9v@tele-multi-game.iam.gserviceaccount.com",
+    "client_id": "117019834813555882470",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ncg9v%40tele-multi-game.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
